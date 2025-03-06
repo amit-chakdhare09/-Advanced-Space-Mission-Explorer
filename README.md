@@ -1,4 +1,3 @@
-Here’s a **README.md** for your **Advanced Space Mission Explorer** project:  
 
 ---
 
@@ -50,5 +49,3 @@ Feel free to **open issues, suggest new features, or contribute code**! 🚀
 This project is licensed under the **MIT License**.  
 
 ---
-
-This **README** provides clarity on the project’s purpose, features, usage, and future plans. Let me know if you need any refinements! 🚀
