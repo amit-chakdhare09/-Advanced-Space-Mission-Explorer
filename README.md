@@ -21,7 +21,6 @@ The **Advanced Space Mission Explorer** is a web-based tool built with **HTML, C
 ## 🚀 Tech Stack  
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Libraries:** (Add any relevant JavaScript libraries if used, e.g., Three.js, Chart.js, D3.js)  
 - **Future Enhancements:** Backend integration for mission data storage  
 
 ## 📌 Upcoming Features  
